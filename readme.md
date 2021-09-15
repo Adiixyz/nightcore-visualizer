@@ -33,3 +33,6 @@ Nightcore Visualizer for Avee Player
 > 8. once youre done. click this
 >
 ![fxk](./IMG_20210915_202008.jpg)
+
+# enjoyyy...
+![dahlah](./Screenshot_2021-09-15-20-17-22-13.png)
