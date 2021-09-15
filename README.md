@@ -22,3 +22,10 @@ Nightcore Visualizer for Avee Player
 >
 ![fur](./IMG_20210915_201916.jpg)
 
+> 6. click load from file
+>
+![six](./IMG_20210915_201939.jpg)
+
+> 7. select visualizer_35.viz
+>
+![lup](./IMG_20210915_201953.jpg)
