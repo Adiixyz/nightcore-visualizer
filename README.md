@@ -13,3 +13,12 @@ Nightcore Visualizer for Avee Player
 >
 ![two](./IMG_20210915_201851.jpg)
 
+> 3. download it
+>
+![tri](./IMG_20210915_201902.jpg)
+
+> 4. open avee player
+> 5. click this
+>
+![fur](./IMG_20210915_201916.jpg)
+
