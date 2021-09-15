@@ -5,10 +5,10 @@ Nightcore Visualizer for Avee Player
 
 ## How to install?
 
-> 1.
+> 1. click visualizer_35.viz
 >
 ![one](./IMG_20210915_201834.jpg)
 
-> 2.
+> 2. click view raw
 ![two](./IMG_20210915_201851.jpg)
 
