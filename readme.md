@@ -29,3 +29,7 @@ Nightcore Visualizer for Avee Player
 > 7. select visualizer_35.viz
 >
 ![lup](./IMG_20210915_201953.jpg)
+
+> 8. once youre done. click this
+>
+![fxk](./IMG_20210915_202008.jpg)
